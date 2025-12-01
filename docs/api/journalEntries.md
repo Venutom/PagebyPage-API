@@ -1,7 +1,7 @@
 ---
 # markdownlint-disable
 # vale off
-layout: default:
+layout: default
 parent: Introduction
 nav_order: 2
 ---
